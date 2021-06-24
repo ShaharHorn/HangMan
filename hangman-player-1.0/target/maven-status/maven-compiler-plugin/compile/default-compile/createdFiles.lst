@@ -1,0 +1,5 @@
+com\netomedia\exam\hangman\service\HangManDictionaryService.class
+com\netomedia\exam\hangman\service\HangManSolverService.class
+com\netomedia\exam\hangman\player\HangmanPlayer.class
+com\netomedia\exam\hangman\server\HangmanServer.class
+com\netomedia\exam\hangman\model\ServerResponse.class

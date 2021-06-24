@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="63" started-at="2021-06-24T19:19:41 IDT" finished-at="2021-06-24T19:19:41 IDT">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="63" started-at="2021-06-24T19:19:41 IDT" finished-at="2021-06-24T19:19:41 IDT">
+      <class name="com.netomedia.hangman.AppTest">
+        <test-method status="PASS" signature="shouldAnswerWithTrue()" name="shouldAnswerWithTrue" duration-ms="16" started-at="2021-06-24T19:19:41 IDT" finished-at="2021-06-24T19:19:41 IDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldAnswerWithTrue -->
+      </class> <!-- com.netomedia.hangman.AppTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
